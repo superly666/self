@@ -1,0 +1,222 @@
+[ 2016-09-02T13:14:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005542s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-09-02T18:46:29+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004570s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-09-02T18:59:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001534s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-09-02T18:59:50+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001872s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:02:24+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001704s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:02:29+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001769s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:02:32+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000180s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002012s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:12:05+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002392s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:12:07+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001924s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:13:06+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001809s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:13:10+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001773s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:14:33+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001936s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:14:36+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001941s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:14:58+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003774s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:15:45+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002210s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:15:57+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001995s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:18:17+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002083s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:18:23+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001885s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:18:26+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001766s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:20:13+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002830s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:20:16+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002454s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:30:15+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001957s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:30:19+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005021s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:32:23+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002342s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:37:49+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001965s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:38:18+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001929s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:38:46+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002219s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:38:57+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001886s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:40:57+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002142s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:41:00+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003028s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:41:44+08:00 ] 127.0.0.1 /Public/Admin/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002520s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-02T19:43:02+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003261s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-09-02T20:06:18+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001695s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-09-02T20:25:07+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002008s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-09-02T20:55:24+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.050172s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-09-02T20:55:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001550s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-09-02T21:11:28+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001488s ]
+ERR: 无法加载模块:Favicon
+

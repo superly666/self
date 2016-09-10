@@ -1,0 +1,174 @@
+[ 2016-08-24T20:09:41+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001699s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-08-24T20:12:53+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002615s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:13:14+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001570s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:17:15+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001810s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:17:16+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001600s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:19:37+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001381s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:19:48+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001594s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:19:49+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002164s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:20:14+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001331s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:20:15+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001516s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:20:29+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001571s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:20:31+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001557s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:20:32+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002021s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:20:33+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001293s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:20:42+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001677s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:20:43+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001532s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:20:44+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001292s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:20:45+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001501s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:20:45+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001754s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:20:46+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001524s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:23:02+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001607s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:24:57+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002626s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:24:58+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001855s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:25:04+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001382s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:25:08+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002036s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:25:13+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001399s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:25:23+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001499s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:27:05+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001963s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-24T20:27:07+08:00 ] 127.0.0.1 /Public/Admin/Js/jquery2.sorted.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001442s ]
+ERR: 无法加载模块:Public
+

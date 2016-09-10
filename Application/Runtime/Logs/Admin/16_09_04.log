@@ -1,0 +1,261 @@
+[ 2016-09-04T09:57:28+08:00 ] 127.0.0.1 /index.php/admin/doc/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017354s ]
+NOTIC: [2048] Declaration of Admin\Controller\DocController::show() should be compatible with that of Think\Controller::show() D:\www\self\Application\Admin\Controller\DocController.class.php 第 98 行.
+SQL: SHOW COLUMNS FROM `tp_doc` [ RunTime:0.0493s ]
+SQL: SELECT * FROM `tp_doc`  [ RunTime:0.0087s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000231s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000602s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.170537s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.170907s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.017634s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017853s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.093985s ]
+INFO: [ app_end ] --END-- [ RunTime:0.094218s ]
+
+[ 2016-09-04T09:57:35+08:00 ] 127.0.0.1 /index.php/Admin/Doc/getContent/id/15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002804s ]
+NOTIC: [2048] Declaration of Admin\Controller\DocController::show() should be compatible with that of Think\Controller::show() D:\www\self\Application\Admin\Controller\DocController.class.php 第 98 行.
+SQL: SHOW COLUMNS FROM `tp_doc` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `tp_doc` WHERE `id` = 15 LIMIT 1   [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002173s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002361s ]
+
+[ 2016-09-04T09:57:57+08:00 ] 127.0.0.1 /index.php/Admin/Doc/addok.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002837s ]
+NOTIC: [2048] Declaration of Admin\Controller\DocController::show() should be compatible with that of Think\Controller::show() D:\www\self\Application\Admin\Controller\DocController.class.php 第 98 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\www\self\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `tp_doc` [ RunTime:0.0107s ]
+SQL: INSERT INTO `tp_doc` (`name`,`content`,`sort`,`filename`,`filepath`,`addtime`) VALUES ('二恶烷认为','发射点','50','57cb7fa47ab7b.jpg','<html><img width=300 height=200 src=/Public/Upload/2016-09-04/57cb7fa47ab7b.jpg></html>','2016') [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000150s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000419s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069374s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002421s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002631s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002915s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003133s ]
+
+[ 2016-09-04T09:58:03+08:00 ] 127.0.0.1 /index.php/Admin/Doc/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002189s ]
+NOTIC: [2048] Declaration of Admin\Controller\DocController::show() should be compatible with that of Think\Controller::show() D:\www\self\Application\Admin\Controller\DocController.class.php 第 98 行.
+SQL: SHOW COLUMNS FROM `tp_doc` [ RunTime:0.0155s ]
+SQL: SELECT * FROM `tp_doc`  [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000184s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000454s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028503s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028748s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001371s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001547s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002016s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002204s ]
+
+[ 2016-09-04T09:58:08+08:00 ] 127.0.0.1 /index.php/Admin/Doc/getContent/id/23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001864s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002115s ]
+NOTIC: [2048] Declaration of Admin\Controller\DocController::show() should be compatible with that of Think\Controller::show() D:\www\self\Application\Admin\Controller\DocController.class.php 第 98 行.
+SQL: SHOW COLUMNS FROM `tp_doc` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `tp_doc` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002675s ]
+
+[ 2016-09-04T09:58:14+08:00 ] 127.0.0.1 /index.php/Admin/Doc/editshow/id/23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002218s ]
+NOTIC: [2048] Declaration of Admin\Controller\DocController::show() should be compatible with that of Think\Controller::show() D:\www\self\Application\Admin\Controller\DocController.class.php 第 98 行.
+SQL: SHOW COLUMNS FROM `tp_doc` [ RunTime:0.0165s ]
+SQL: SELECT * FROM `tp_doc`  [ RunTime:0.0017s ]
+SQL: SELECT * FROM `tp_doc` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000505s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.089532s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.089778s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006712s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006911s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.026962s ]
+INFO: [ app_end ] --END-- [ RunTime:0.027503s ]
+
+[ 2016-09-04T09:58:53+08:00 ] 127.0.0.1 /index.php/Admin/Doc/delshow/id/15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002455s ]
+NOTIC: [2048] Declaration of Admin\Controller\DocController::show() should be compatible with that of Think\Controller::show() D:\www\self\Application\Admin\Controller\DocController.class.php 第 98 行.
+SQL: SHOW COLUMNS FROM `tp_doc` [ RunTime:0.0131s ]
+SQL: DELETE FROM `tp_doc` WHERE `id` = 15 [ RunTime:0.0016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000347s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021730s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022014s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001314s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001983s ]
+
+[ 2016-09-04T09:58:57+08:00 ] 127.0.0.1 /index.php/Admin/Doc/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002054s ]
+NOTIC: [2048] Declaration of Admin\Controller\DocController::show() should be compatible with that of Think\Controller::show() D:\www\self\Application\Admin\Controller\DocController.class.php 第 98 行.
+SQL: SHOW COLUMNS FROM `tp_doc` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `tp_doc`  [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000182s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000385s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026593s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026828s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001319s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001519s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002005s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002213s ]
+
+[ 2016-09-04T09:59:08+08:00 ] 127.0.0.1 /index.php/Admin/Doc/delshow/id/23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001602s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003183s ]
+NOTIC: [2048] Declaration of Admin\Controller\DocController::show() should be compatible with that of Think\Controller::show() D:\www\self\Application\Admin\Controller\DocController.class.php 第 98 行.
+SQL: SHOW COLUMNS FROM `tp_doc` [ RunTime:0.0130s ]
+SQL: DELETE FROM `tp_doc` WHERE `id` = 23 [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000315s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019309s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019520s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001229s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001410s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002234s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002468s ]
+
+[ 2016-09-04T09:59:12+08:00 ] 127.0.0.1 /index.php/Admin/Doc/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002277s ]
+NOTIC: [2048] Declaration of Admin\Controller\DocController::show() should be compatible with that of Think\Controller::show() D:\www\self\Application\Admin\Controller\DocController.class.php 第 98 行.
+SQL: SHOW COLUMNS FROM `tp_doc` [ RunTime:0.0132s ]
+SQL: SELECT * FROM `tp_doc`  [ RunTime:0.0016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000202s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000453s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029037s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029317s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001483s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001698s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002917s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004245s ]
+
+[ 2016-09-04T09:59:34+08:00 ] 127.0.0.1 /index.php/Admin/Doc/addok.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001672s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002640s ]
+NOTIC: [2048] Declaration of Admin\Controller\DocController::show() should be compatible with that of Think\Controller::show() D:\www\self\Application\Admin\Controller\DocController.class.php 第 98 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\www\self\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `tp_doc` [ RunTime:0.0141s ]
+SQL: INSERT INTO `tp_doc` (`name`,`content`,`sort`,`filename`,`filepath`,`addtime`) VALUES ('繁花似锦','是不是被美丽的','50','57cb800500c88.jpg','<html><img width=300 height=200 src=/Public/Upload/2016-09-04/57cb800500c88.jpg></html>','2016') [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000143s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000329s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020269s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020515s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001942s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002121s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002694s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002880s ]
+
+[ 2016-09-04T09:59:38+08:00 ] 127.0.0.1 /index.php/Admin/Doc/show.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003736s ]
+NOTIC: [2048] Declaration of Admin\Controller\DocController::show() should be compatible with that of Think\Controller::show() D:\www\self\Application\Admin\Controller\DocController.class.php 第 98 行.
+SQL: SHOW COLUMNS FROM `tp_doc` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `tp_doc`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000199s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000427s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029708s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029944s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002285s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002482s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002443s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002661s ]
+
